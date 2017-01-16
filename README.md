@@ -4,6 +4,9 @@
 * [Smartcar shield library](http://plat.is/smartcar) | [Wiki](https://github.com/platisd/smartcar_shield/wiki)
 * [DIT524 workshop slides](http://plat.is/workshop)
 
+## Testing Framework
+* [Smartcar Mock](https://github.com/platisd/smartcar-gmock)
+
 ## Arduino in general
 * [Arduino API Reference](https://www.arduino.cc/en/Reference/HomePage)
 * [Arduino Forum](http://forum.arduino.cc/)
