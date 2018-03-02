@@ -16,7 +16,7 @@
 * [Arduino - Android Bluetooth communication](https://bellcode.wordpress.com/2012/01/02/android-and-arduino-bluetooth-communication/)
 
 # Serial port
-* [JAVA] (http://playground.arduino.cc/Interfacing/Java)
-* [Python] (http://playground.arduino.cc/Interfacing/Python)
-* [C++] (http://playground.arduino.cc/Interfacing/CPlusPlus)
-* [Relay information between websockets and the Serial port] (https://github.com/platisd/SocketSerialBridge) (JAVA)
+* [JAVA](http://playground.arduino.cc/Interfacing/Java)
+* [Python](http://playground.arduino.cc/Interfacing/Python)
+* [C++](http://playground.arduino.cc/Interfacing/CPlusPlus)
+* [Relay information between websockets and the Serial port](https://github.com/platisd/SocketSerialBridge) (in JAVA)
