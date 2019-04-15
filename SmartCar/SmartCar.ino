@@ -46,7 +46,7 @@ void loop() {
 }
 
 void fool (){
-  Serial.println ("hej du!");
+  Serial.println ("hej du är snel!");
 }
 
 void bar(){
