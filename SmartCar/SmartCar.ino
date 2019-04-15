@@ -44,3 +44,8 @@ void loop() {
     Serial.println(car.getHeading());
   }
 }
+
+void fool (){
+  Serial.println ("hej");
+}
+}
